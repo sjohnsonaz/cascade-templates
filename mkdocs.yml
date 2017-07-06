@@ -1,0 +1,7 @@
+site_name: Cascade Templates
+site_url: https://sjohnsonaz.github.io/cascade-templates
+repo_url: https://github.com/sjohnsonaz/cascade-templates
+copyright: Copyright &copy; 2017 Sean Johnson
+pages:
+    - Home: index.md
+theme: readthedocs
